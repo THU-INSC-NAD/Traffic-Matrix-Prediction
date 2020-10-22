@@ -37,7 +37,6 @@
 !OD_pair/CERNET-OD_pair_2013-02-25.csv
 !OD_pair/CERNET-OD_pair_2013-03-01.csv
 !OD_pair/CERNET-OD_pair_embed_2013-03-01.csv
-
 !GEANT/geant.txt
 !GEANT/geant.topo
 !GEANT/CNN_LSTM_predict_TM.py
@@ -54,5 +53,30 @@
 !OD_pair/GEANT-OD_pair.csv
 !OD_pair/GEANT-OD_pair_2005-07-26.csv
 !OD_pair/GEANT-OD_pair_embed_2005-07-26.csv
+
+!Abilene/DBN/DBN_predict_OD.py
+!Abilene/DBN/RBM.PY
+!Abilene/TCN/tm_predict/model.py
+!Abilene/TCN/tm_predict/TCN_predict_OD.py
+!Abilene/TCN/tm_predict/TCN_predict_TM.py
+!Abilene/TCN/tm_predict/TCN_test.py
+!Abilene/TCN/tcn.py
+
+!CERNET/DBN/DBN_predict_OD.py
+!CERNET/DBN/RBM.PY
+!CERNET/TCN/tm_predict/model.py
+!CERNET/TCN/tm_predict/TCN_predict_OD.py
+!CERNET/TCN/tm_predict/TCN_predict_TM.py
+!CERNET/TCN/tm_predict/TCN_test.py
+!CERNET/TCN/tcn.py
+
+!GEANT/DBN/DBN_predict_OD.py
+!GEANT/DBN/RBM.PY
+!GEANT/TCN/tm_predict/model.py
+!GEANT/TCN/tm_predict/TCN_predict_OD.py
+!GEANT/TCN/tm_predict/TCN_predict_TM.py
+!GEANT/TCN/tm_predict/TCN_test.py
+!GEANT/TCN/tcn.py
+
 
 
